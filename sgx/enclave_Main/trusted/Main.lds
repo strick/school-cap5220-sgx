@@ -1,0 +1,9 @@
+Main.so
+{
+    global:
+        g_global_data_sim;
+        g_global_data;
+        Main_entry;
+    local:
+        *;
+};
